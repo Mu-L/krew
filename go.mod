@@ -4,6 +4,7 @@ go 1.25
 
 require (
 	github.com/fatih/color v1.18.0
+	github.com/git-lfs/go-netrc v0.0.0-20250218165306-ba0029b43d11
 	github.com/google/go-cmp v0.7.0
 	github.com/mattn/go-isatty v0.0.20
 	github.com/pkg/errors v0.9.1
